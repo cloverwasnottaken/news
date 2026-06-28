@@ -1,3 +1,0 @@
-"title": "hi"
-"reporters": "google.com"
-"date": "..."
